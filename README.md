@@ -1,4 +1,7 @@
-### Hi there 👋
+### ![https://draexx.github.io] Hi there my name is Pedro 👋
+
+I'm currently working in a factory, developing customized systems according to your requirements, as well as teaching in a higher education institute. 
+I am looking forward to learn and share all the knowledge about new technologies in order to provide advice on technological solutions.
 
 <!--
 **draexx/draexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
