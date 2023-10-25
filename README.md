@@ -3,8 +3,12 @@
 I'm currently working in a factory, developing customized systems according to your requirements, as well as teaching in a higher education institute. 
 I am looking forward to learn and share all the knowledge about new technologies in order to provide advice on technological solutions.
 
+[![Linkedin: Pedro Carranza](https://img.shields.io/badge/-Pedro_Carranza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocarranza/)](https://www.linkedin.com/in/pedrocarranza/)
+[![Instagram: Pedro Carranza](https://img.shields.io/badge/-Pedro_Carranza-%23DD2A7B?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/draexx)](https://www.instagram.com/draexx)
 <!--
+[![GitHub: Pedro Carranza](https://img.shields.io/badge/-Draexx-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/draexx)](https://github.com/draexx)
 **draexx/draexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
