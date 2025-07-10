@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### ![](https://draexx.github.io) Hi there, I'm Pedro 👋
 
 I build custom software and teach technology. I love learning continuously and sharing what I discover.
