@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<img src="./github-header-image.png" alt="Header" width="100%">
 
 ### ![](https://draexx.github.io) Hi there, I'm Pedro 👋
 
