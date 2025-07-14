@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=draexx&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/draexx/langs?time_range=one_year&theme=dark)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/draexx/langs?time_range=one_year&theme=dark)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/draexx/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
