@@ -2,6 +2,8 @@
 
 ### ![](https://draexx.github.io) Hi there, I'm Pedro 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+custom+software;and+teach+technology.;I+love+learning+continuously+and;sharing+what+I+discover.)](https://git.io/typing-svg)
+
 I build custom software and teach technology. I love learning continuously and sharing what I discover.
 
 👨‍💻 What I Do
