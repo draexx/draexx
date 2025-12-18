@@ -1,20 +1,27 @@
 <img src="./github-header-image.png" alt="Header" width="100%">
 
-### ![](https://draexx.github.io) Hi there, I'm Pedro 👋
+## ![](https://draexx.github.io) Hi there, I'm Pedro 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+custom+software;and+teach+technology.;I+love+learning+continuously+and;sharing+what+I+discover.)](https://git.io/typing-svg)
+### Software Strategist | AI & Legacy Specialist | Bridging the gap from Bits to Bots 🤖
 
-I build custom software and teach technology. I love learning continuously and sharing what I discover, especially within the Open Source community.
+I build custom software and teach technology, bridging the gap between traditional systems (Bits) and intelligent futures (Bots).
+
+🚀 Explore my work: ![pedrocarranza.com](https://pedrocarranza.com) | ![debitsabots.com](https://debitsabots.com)
 
 👨‍💻 What I Do
-- Software Development: I specialize in building custom software solutions. My work involves transforming complex needs into robust and efficient systems using Java, PHP, Python, PostgreSQL, and Node.js/Express.
-- Higher Education & Training: I teach at a higher education institute (Tecba Sucre), sharing knowledge in OOP, Data Structures, and Systems. I am certified in Teaching Methodology and Planning.
-- Tech Consulting: I advise on leveraging new technologies to solve practical problems, with a current focus on AI, Machine Learning, and Educational Robotics.
+- Software Development: Specializing in robust systems using Java, PHP, Python, and Node.js. I transform complex legacy needs into modern, efficient architectures.
+- Higher Education & Training: Professor at Tecba Sucre, teaching OOP and Data Structures.
+- Tech Consulting: Advising on AI, Machine Learning, and automation.
 
-💡 Areas of Expertise
-- FullStack Engineering: From core backend systems to modern API integrations (QR, ATC).
-- Open Source Leadership: Active Organizer of the National Free Software Congress (2016) and Expositor FLISOL (2025).
-- Future Focus: Currently advancing my knowledge through a Master's in AI, Machine Learning, and Data Science.
+💡 Key Projects
+
+ - Thesis Track & Compare (TTC): My flagship academic management tool. ![Check it out here](https://ttc.pedrocarranza.com).
+ - Maker Ecosystem: Founder of ![Geekeando.net](https://geekeando.net), my space for robotics and DIY hardware.
+
+🎓 Continuous Learning
+
+ - Currently pursuing a Master's in AI, Machine Learning, and Data Science.
+ - Active member of the Open Source community (FLISOL 2025).
 
 🛠️ Tech & Skills
 
