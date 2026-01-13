@@ -6,7 +6,7 @@
 
 I build custom software and teach technology, bridging the gap between traditional systems (Bits) and intelligent futures (Bots).
 
-🚀 Explore my work: ![pedrocarranza.com](https://pedrocarranza.com) | ![debitsabots.com](https://debitsabots.com)
+🚀 Explore my work: [pedrocarranza.com](https://pedrocarranza.com) | [debitsabots.com](https://debitsabots.com)
 
 👨‍💻 What I Do
 - Software Development: Specializing in robust systems using Java, PHP, Python, and Node.js. I transform complex legacy needs into modern, efficient architectures.
@@ -15,8 +15,8 @@ I build custom software and teach technology, bridging the gap between tradition
 
 💡 Key Projects
 
- - Thesis Track & Compare (TTC): My flagship academic management tool. ![Check it out here](https://ttc.pedrocarranza.com).
- - Maker Ecosystem: Founder of ![Geekeando.net](https://geekeando.net), my space for robotics and DIY hardware.
+ - Thesis Track & Compare (TTC): My flagship academic management tool. [Check it out here](https://ttc.pedrocarranza.com).
+ - Maker Ecosystem: Founder of [Geekeando.net](https://geekeando.net), my space for robotics and DIY hardware.
 
 🎓 Continuous Learning
 
